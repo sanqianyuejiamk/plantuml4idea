@@ -1,6 +1,10 @@
 plantuml4idea
 =============
 
+插件地址：
+https://plugins.jetbrains.com/plugin/7017-plantuml-integration
+
+
 Intellij [IDEA plugin for PlantUML](http://plugins.intellij.net/plugin/?idea&id=7017)
 
 This plugin provides integration with popular [PlantUML](http://plantuml.sourceforge.net/) diagramming tool
